@@ -1,0 +1,17 @@
+{
+  "name": "convolutional-neural-networks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^2.0.0",
+    "@tensorflow/tfjs-vis": "^1.4.0",
+    "parcel-bundler": "^1.12.4",
+    "vega": "^5.12.3"
+  }
+}
